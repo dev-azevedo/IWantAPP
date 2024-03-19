@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|c:\\vso\\udemy\\dotnet 6 web api - do zero ao avan\u00E7ado\\iwantapp\\src\\endpoints\\employees\\employeegetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|solutionrelative:endpoints\\employees\\employeegetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|c:\\vso\\udemy\\dotnet 6 web api - do zero ao avan\u00E7ado\\iwantapp\\src\\endpoints\\employees\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|solutionrelative:endpoints\\employees\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|c:\\vso\\udemy\\dotnet 6 web api - do zero ao avan\u00E7ado\\iwantapp\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|c:\\vso\\udemy\\dotnet 6 web api - do zero ao avan\u00E7ado\\iwantapp\\src\\endpoints\\employees\\employeepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|solutionrelative:endpoints\\employees\\employeepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|c:\\vso\\udemy\\dotnet 6 web api - do zero ao avan\u00E7ado\\iwantapp\\src\\endpoints\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|solutionrelative:endpoints\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|c:\\vso\\udemy\\dotnet 6 web api - do zero ao avan\u00E7ado\\iwantapp\\src\\endpoints\\employees\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2569DFE7-3791-4FA1-8405-F8371CA1B5C6}|IWantAPP.csproj|solutionrelative:endpoints\\employees\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Endpoints\\Employees\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "Endpoints\\Employees\\EmployeeResponse.cs",
+              "ToolTip": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Endpoints\\Employees\\EmployeeResponse.cs",
+              "RelativeToolTip": "Endpoints\\Employees\\EmployeeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:14:54.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeGetAll.cs",
+              "DocumentMoniker": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Endpoints\\Employees\\EmployeeGetAll.cs",
+              "RelativeDocumentMoniker": "Endpoints\\Employees\\EmployeeGetAll.cs",
+              "ToolTip": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Endpoints\\Employees\\EmployeeGetAll.cs",
+              "RelativeToolTip": "Endpoints\\Employees\\EmployeeGetAll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:12:05.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeePost.cs",
+              "DocumentMoniker": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Endpoints\\Employees\\EmployeePost.cs",
+              "RelativeDocumentMoniker": "Endpoints\\Employees\\EmployeePost.cs",
+              "ToolTip": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Endpoints\\Employees\\EmployeePost.cs",
+              "RelativeToolTip": "Endpoints\\Employees\\EmployeePost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:09:12.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProblemDetailsExtensions.cs",
+              "DocumentMoniker": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Endpoints\\ProblemDetailsExtensions.cs",
+              "RelativeDocumentMoniker": "Endpoints\\ProblemDetailsExtensions.cs",
+              "ToolTip": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Endpoints\\ProblemDetailsExtensions.cs",
+              "RelativeToolTip": "Endpoints\\ProblemDetailsExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:07:09.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:48:33.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRequest.cs",
+              "DocumentMoniker": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Endpoints\\Employees\\EmployeeRequest.cs",
+              "RelativeDocumentMoniker": "Endpoints\\Employees\\EmployeeRequest.cs",
+              "ToolTip": "C:\\VSO\\UDEMY\\DOTNET 6 WEB API - Do zero ao avan\u00E7ado\\IWantAPP\\src\\Endpoints\\Employees\\EmployeeRequest.cs",
+              "RelativeToolTip": "Endpoints\\Employees\\EmployeeRequest.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:42:57.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
